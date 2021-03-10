@@ -1,0 +1,14 @@
+['15:20:43', '15:23:30', '15:26:44', '15:29:38', '15:30:30', '15:32:26', '15:35:04', '15:38:07', '15:41:02']
+15:20:43
+15:23:30
+15:26:44
+15:29:38
+15:30:30
+15:32:26
+15:35:04
+15:38:07
+15:41:02
+ASIST Malmo Data Logger Summary of Participant in Sparky Map
+Active Timeframes (1.0 second intervals): 549
+Inactive Timeframes (1.0 second intervals): 359
+Mission started at: 2020-04-24 15:17:48.643138
