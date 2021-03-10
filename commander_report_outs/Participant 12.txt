@@ -1,0 +1,128 @@
+Commander Report-Out Training Mission 
+	•	Do you know where you are in the building? Third room
+	•	Yes/No
+	•	Is there any confusion? (None, Some, A lot)? None
+	•	What is your goal right now? Save victims 
+	•	Where are you planning to go next, and how do you get there? Out to the hallway, investigate rubble
+	•	Do you have any confusion on how to get there? (Yes/No) No
+	•	In your estimation, what percentage of the mission space have you covered? (0-100) 100% or unknown
+	•	How many victims do you think are remaining? 0 or unknown 
+	•	How confident are you in that assessment (0-10)?
+	•	What is your level of anxiety (0-10) in completing the mission objective? 0
+	•	What is your level of frustration (0-10) in completing the mission objective? 0
+
+Commander Report-Out 720 Seconds 
+	•	Do you know where you are in the building? Pretty much
+	•	Yes/No
+	•	Is there any confusion? (None, Some, A lot)? None
+	•	What is your goal right now? Saving victims
+	•	Where are you planning to go next, and how do you get there? Continue bouncing down the wall and check corridor to the right
+	•	Do you have any confusion on how to get there? (Yes/No) No
+	•	In your estimation, what percentage of the mission space have you covered? (0-100) IDK
+	•	How many victims do you think are remaining? IDK
+	•	How confident are you in that assessment (0-10)?
+	•	What is your level of anxiety (0-10) in completing the mission objective? 3
+	•	What is your level of frustration (0-10) in completing the mission objective? 3
+
+
+630 Seconds Intervention:“It looks like you’re short on time! You might want to try saving all the yellow box participants first. They will die in 2 minutes and 30 seconds from now, which equates to 480 seconds on your timer to the right. 
+
+Commander Report-Out 540 Seconds 
+	•	Do you know where you are in the building? Yes
+	•	Yes/No
+	•	Is there any confusion? (None, Some, A lot)? None
+	•	What is your goal right now? Saving victims
+	•	Where are you planning to go next, and how do you get there? Going back to end of this hallway and taking a right
+	•	Do you have any confusion on how to get there? (Yes/No) No
+	•	In your estimation, what percentage of the mission space have you covered? (0-100) idk
+	•	How many victims do you think are remaining? idk
+	•	How confident are you in that assessment (0-10)?
+	•	What is your level of anxiety (0-10) in completing the mission objective? 5
+	•	What is your level of frustration (0-10) in completing the mission objective? 5
+
+
+Commander Report-Out 360 seconds 
+	•	Do you know where you are in the building? Yes, right hallway
+	•	Yes/No
+	•	Is there any confusion? (None, Some, A lot)? None
+	•	What is your goal right now? Searching for remaining victims
+	•	Where are you planning to go next, and how do you get there?  Yes
+	•	Do you have any confusion on how to get there? (Yes/No) No
+	•	In your estimation, what percentage of the mission space have you covered? (0-100) all of it
+	•	How many victims do you think are remaining? 0
+	•	How confident are you in that assessment (0-10)? 8
+	•	What is your level of anxiety (0-10) in completing the mission objective? 1
+	•	What is your level of frustration (0-10) in completing the mission objective? 0
+
+Commander Report-Out 180 seconds 
+	•	Do you know where you are in the building? Yes
+	•	Yes/No
+	•	Is there any confusion? (None, Some, A lot)? None
+	•	What is your goal right now?  Searching for remaining victims
+	•	Where are you planning to go next, and how do you get there? Down the hallway and check if doors are closed
+	•	Do you have any confusion on how to get there? (Yes/No) No
+	•	In your estimation, what percentage of the mission space have you covered? (0-100) 100
+	•	How many victims do you think are remaining? 0
+	•	How confident are you in that assessment (0-10)? 9
+	•	What is your level of anxiety (0-10) in completing the mission objective? 0
+	•	What is your level of frustration (0-10) in completing the mission objective? 0
+
+
+
+
+
+
+
+
+Post-task review questions/guide for data collection
+You provided us really useful information today on understanding human performance in search and rescue task. Because of this, we were hoping to ask you a series of questions on your experience playing the mission today.  
+
+Participant: __12___  date: _5-20____ (e.g, 4-11-2020), time:_9 AM______ (e.g, 12:15am-11am)
+	•	World file version: v2.06.01-Training CMU, NoPoints
+	•	Finished time: __5__seconds remaining, 
+	•	Saved all (y/n), no
+	•	Red blocks/deaths?  1
+	•	Score: ___340_
+	•	Impression 
+	•	Difficulty:  	 [ Extremely easy, moderately easy, moderate, moderately difficult, Extremely difficult]
+	•	Level of Effort, 1-10   [1= Very little effort, 10 = Never stopped moving] 10
+	•	Controls: [ Straight-forward, Somewhat difficult, very difficult]
+
+Questions: 
+
+	•	1. Was there any type of strategy you used as you were playing the game? Yes, I started off saving who I could and realized I needed to get a lay of the land and ran to the back of the hallway. Two additional wings, with holes between wings. Once critical patients were at risk, I prioritized the green ones, so I decided to save them as well.
+	•	[Prioritization Strategy] (yellow-first)
+	•	[Navigation Stratgy] (Wing-by-wing, rm-by-rm, save all as found; Stick to the plan, what made you change your plan, if anything) Wing by wing
+	•	[Plan Dynamics] Change your plan? Yea
+	•	When? Thewhole time I kept changing my strategy
+	•	[Deliberate vs vs Opportunistic] Followed a plan or saved victims as soon as you saw them?
+	•	2. How did you remember where every victim was in the mission space? Through knowing where I had been and using the doors as indicators. A little bit with the light but I wasn’t as systematic with them. 
+	•	[Marking Strategy] Used a strategy to remember victim locations?
+	•	Any things you used in the environment to remember where you had been?
+	•	3.  Do you remember any times where you went into a room more than was needed. I think I went in a bunch to ensure victims were saved 
+	•	When did that happen? More towards the very end. Sometimes I did some unnecessary movement
+	•	[Efficiency, Use of Attention] How often did you do this? (Not at all, A few times, More than a few times, A lot) 
+	•	4. Do you have a vivid mental picture of the map of the building? Yes
+	•	If yes, please describe? Walking in, bathrooms to the left, elevators on the right. Come to a fork hallway I’m in. Right side hallway had rubble, and then there were 3-5 doors on each side and 3-5 doors on the one side and windows. A few of the office were double. The biggest one connected to three room. A few weren’t accessible from door, but were accessible from other room. 
+	•	[Mental Mapping] Degree of accurate recollection?
+	•	Any rooms you missed?
+	•	5. Did you feel any type of pressure as you were completing the mission? (time, confusion, Minecraft controls, frustration, notifications) Yes
+	•	If so, what type? Unknown quantity of building size and it was all discover and I knew there was time pressure and I wasn’t sure if it would be possible. 
+	•	When? Mostly at the beginning and definitely when I learned most severe wouldn’t make it passed a certain time
+	•	How frequently? 
+	•	6. Were there any emotions that you experienced throughout the mission? A little bit of arousal being amped
+	•	[Emotions] If so, what type?
+	•	When? 3 times once at beginning. Once I realized I didn’t know the size of the building and at the end when I thought I had a full lay of the space 
+	•	How frequently? 
+	•	7. Noticed my warning before yellow box victims expired? Yes
+	•	Thoughts on reminder? Added pressure and made me wish I knew what the future would hold in terms of exploring the space. Something that went through my mind about saving/not saving green victims in the left wing. 
+	•	Useful? I don’t think useful is the right
+	•	Did you change your behavior as a result of my warning? Yea I did. 
+	•	Earlier, later, just right? IDK
+	•	Evoke any feelings?
+
+	•	Glitches & Bugs:
+	•	None 
+	•	Suggestions for improvement:
+	•	I don’t think so
+

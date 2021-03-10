@@ -1,0 +1,140 @@
+Commander Report-Out Training Mission 
+	•	Do you know where you are in the building? Room 2 maybe. I had a bad mental map. Down the hall and I think Im in room 
+	•	Yes/No
+	•	Is there any confusion? (None, Some, A lot)? Some
+	•	What is your goal right now? Figure things out, get used to the controls, strategizing for the mission. 
+	•	Where are you planning to go next, and how do you get there? I think there’s a door in this room and trying to find it. 
+	•	Do you have any confusion on how to get there? (Yes/No) No not really 
+	•	In your estimation, what percentage of the mission space have you covered? (0-100) 20% probably 
+	•	How many victims do you think are remaining? 6 
+	•	How confident are you in that assessment (0-10)? 4
+	•	What is your level of anxiety (0-10) in completing the mission objective? 3-4 
+	•	What is your level of frustration (0-10) in completing the mission objective? 1 because I’m not using a mousepad 
+
+Commander Report-Out 720 Seconds 
+	•	Do you know where you are in the building? I walked in, E1 and another door on the other side. I turned around into a bathroom and I’m trying to get the green guys since doors wont open
+	•	Yes/No
+	•	Is there any confusion? (None, Some, A lot)?  None
+	•	What is your goal right now?  My plan is to do yellow and circle back to get the green doors open
+	•	Where are you planning to go next, and how do you get there? Over to find the green guy and try to open the E2 
+	•	Do you have any confusion on how to get there? (Yes/No) No
+	•	In your estimation, what percentage of the mission space have you covered? (0-100) 5% or less 
+	•	How many victims do you think are remaining? I have no idea, probably a lot
+	•	How confident are you in that assessment (0-10)? 
+	•	What is your level of anxiety (0-10) in completing the mission objective? 6-7 but rising as time goes on. Right click screwed with me and is stressing me out
+	•	What is your level of frustration (0-10) in completing the mission objective? 1
+
+
+630 Seconds Intervention:“It looks like you’re short on time! You might want to try saving all the yellow box participants first. They will die in 2 minutes and 30 seconds from now, which equates to 480 seconds on your timer to the right. 
+
+Commander Report-Out 540 Seconds 
+	•	Do you know where you are in the building? At the intersection past first hallway
+	•	Yes/No
+	•	Is there any confusion? (None, Some, A lot)? None
+	•	What is your goal right now? Find yellow victims ASAP
+	•	Where are you planning to go next, and how do you get there? Down gray wall turn left
+	•	Do you have any confusion on how to get there? (Yes/No) No
+	•	In your estimation, what percentage of the mission space have you covered? (0-100) 30% 
+	•	How many victims do you think are remaining? 60 based on the number of potions
+	•	How confident are you in that assessment (0-10)? 1
+	•	What is your level of anxiety (0-10) in completing the mission objective?8
+	•	What is your level of frustration (0-10) in completing the mission objective? 3 because I overshooting my mouse
+
+
+Commander Report-Out 360 seconds 
+	•	Do you know where you are in the building? No, I think I’m in the same corridor but jumping through corridors 
+	•	Yes/No 
+	•	Is there any confusion? (None, Some, A lot)?
+	•	What is your goal right now? Run through rooms. If I see a green guy, I can heal them. I think I can try to head to he front to 
+	•	Where are you planning to go next, and how do you get there?  Through hole in the wall and assess the room and see if there are any blocks to head through this door
+	•	Do you have any confusion on how to get there? (Yes/No) No pretty lost as is. I’ll poke around and see where I have and haven’t been
+	•	In your estimation, what percentage of the mission space have you covered? (0-100) 40%
+	•	How many victims do you think are remaining? I think 20
+	•	How confident are you in that assessment (0-10)? 0
+	•	What is your level of anxiety (0-10) in completing the mission objective? 7 but still kind of uggggh
+	•	What is your level of frustration (0-10) in completing the mission objective? 1 
+
+Commander Report-Out 180 seconds 
+	•	Do you know where you are in the building? Im at the very back of from where I began
+	•	Yes/No
+	•	Is there any confusion? (None, Some, A lot)? A tiny bit but not much 
+	•	What is your goal right now? Save remaining green victims. 
+	•	Where are you planning to go next, and how do you get there? Then run to the front and save green 
+	•	Do you have any confusion on how to get there? (Yes/No) No
+	•	In your estimation, what percentage of the mission space have you covered? (0-100) 90%
+	•	How many victims do you think are remaining? 5-6 
+	•	How confident are you in that assessment (0-10)? 6 
+	•	What is your level of anxiety (0-10) in completing the mission objective? 4
+	•	What is your level of frustration (0-10) in completing the mission objective? 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Post-task review questions/guide for data collection
+You provided us really useful information today on understanding human performance in search and rescue task. Because of this, we were hoping to ask you a series of questions on your experience playing the mission today.  
+
+Participant: _26____  date: _9/16____ (e.g, 4-11-2020), time:_1:30 PM_____ (e.g, 12:15am-11am)
+	•	World file version: v2.06.01-Training CMU, NoPoints
+	•	Finished time: _0___seconds remaining, 
+	•	Saved all (y/n), no
+	•	Red blocks/deaths?  3 yellow doeaths, 3 greens
+	•	Score: ____
+	•	Impression 
+	•	Difficulty:  	 [ Extremely easy, moderately easy, moderate, moderately difficult, Extremely difficult]
+	•	Level of Effort, 1-10   [1= Very little effort, 10 = Never stopped moving] 10 I tried really hard I promise 
+	•	Controls: [ Straight-forward, Somewhat difficult, very difficult] I mixed up controls from other video games I’ve played
+
+Questions: 
+
+	•	1. Was there any type of strategy you used as you were playing the game? I wanted to go through and find yellow blocks first. I wish I could have been familiar with the mission space
+	•	[Prioritization Strategy] (yellow-first) After coming back I thought about the yellow blocks. When I wasn’t sure about 
+	•	[Navigation Stratgy] (Wing-by-wing, rm-by-rm, save all as found; Stick to the plan, what made you change your plan, if anything) 
+	•	[Plan Dynamics] Change your plan? Yea the things I mentioned earlier. Once right click worked it was yellow first. I rezlized the space was smaller than expected, 
+	•	When?
+	•	[Deliberate vs vs Opportunistic] Followed a plan or saved victims as soon as you saw them?
+	•	2. How did you remember where every victim was in the mission space? I didn’t really. Since the main hallways were simplistic, I thought about it wing by wing. 
+	•	[Marking Strategy] Used a strategy to remember victim locations?
+	•	Any things you used in the environment to remember where you had been? The walled off hallway was a landmark for me. At the very end I saw some 
+	•	3.  Do you remember any times where you went into a room more than was needed. Several times I completely forgot which time all yellow victims had died. 
+	•	When did that happen? Yea it happened a lot. Was confused and needed to compensate for short term memory issues. 
+	•	[Efficiency, Use of Attention] How often did you do this? (Not at all, A few times, More than a few times, A lot) 
+	•	4. Do you have a vivid mental picture of the map of the building? No 
+	•	If yes, please describe?
+	•	[Mental Mapping] Degree of accurate recollection?
+	•	Any rooms you missed?
+	•	5. Did you feel any type of pressure as you were completing the mission? (time, confusion, Minecraft controls, frustration, notifications) Yes
+	•	If so, what type? PRessure to get yellow victims, Latter half wasnt as stressful. Don’t remmeber where they were because of my memory
+	•	When?
+	•	How frequently? Very strong in first 7 minutes. Tapered off after notice. I felt pressure w/green ~200 seconds and find all of the green 
+	•	6. Were there any emotions that you experienced throughout the mission? Mild disappointment because I didn’t get as many yellows as I’d had hoped
+	•	[Emotions] If so, what type?
+	•	When?
+	•	How frequently? 
+	•	7. Noticed my warning before yellow box victims expired? I don’t remember but I’m sure I would have responded to my stimuli 
+	•	Thoughts on reminder?
+	•	Useful?
+	•	Did you change your behavior as a result of my warning?
+	•	Earlier, later, just right?
+	•	Evoke any feelings?
+
+	•	Glitches & Bugs:
+	•	Right click for a short period. Had to reconnect. Yellow victims expired early on first run. Had to run again
+	•	Suggestions for improvement:
+	•	Map intervention
+	•	Playing pc games because of familiarity--would repeat with a controller 
+	•	Nice if rooms have numbers, but I’m bad at remembering the rooms. Color or some wallpaper
+	•	Giving a map to tag or auto-tag the door. For me, I was using the doors to familiarize myself if there were green blocks left
+

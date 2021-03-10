@@ -1,0 +1,130 @@
+Commander Report-Out Training Mission 
+	•	Do you know where you are in the building? Room 2 I think
+	•	Yes/No
+	•	Is there any confusion? (None, Some, A lot)? None
+	•	What is your goal right now? Save victims 
+	•	Where are you planning to go next, and how do you get there?  Into the door to the left of the room I’m in now 
+	•	Do you have any confusion on how to get there? (Yes/No) No
+	•	In your estimation, what percentage of the mission space have you covered? (0-100) 70%
+	•	How many victims do you think are remaining? 2
+	•	How confident are you in that assessment (0-10)? 5
+	•	What is your level of anxiety (0-10) in completing the mission objective? 5
+	•	What is your level of frustration (0-10) in completing the mission objective? 0
+
+Commander Report-Out 720 Seconds 
+	•	Do you know where you are in the building? Left wing from the entrance going down a hallway to turn right to go north in the building
+	•	Yes/No
+	•	Is there any confusion? (None, Some, A lot)? None
+	•	What is your goal right now? Save all of the people as quickly as possible
+	•	Where are you planning to go next, and how do you get there? Go down left hallway and stop saving green blocks and start saving yellow first
+	•	Do you have any confusion on how to get there? (Yes/No) no 
+	•	In your estimation, what percentage of the mission space have you covered? (0-100)15
+	•	How many victims do you think are remaining? 15
+	•	How confident are you in that assessment (0-10)?  3
+	•	What is your level of anxiety (0-10) in completing the mission objective? 6
+	•	What is your level of frustration (0-10) in completing the mission objective? 2
+
+
+630 Seconds Intervention:“It looks like you’re short on time! You might want to try saving all the yellow box participants first. They will die in 2 minutes and 30 seconds from now, which equates to 480 seconds on your timer to the right. 
+
+Commander Report-Out 540 Seconds 
+	•	Do you know where you are in the building? 
+	•	Yes/No
+	•	Is there any confusion? (None, Some, A lot)?
+	•	What is your goal right now? 
+	•	Where are you planning to go next, and how do you get there? 
+	•	Do you have any confusion on how to get there? (Yes/No)
+	•	In your estimation, what percentage of the mission space have you covered? (0-100)
+	•	How many victims do you think are remaining?
+	•	How confident are you in that assessment (0-10)?
+	•	What is your level of anxiety (0-10) in completing the mission objective?
+	•	What is your level of frustration (0-10) in completing the mission objective?
+
+
+Commander Report-Out 360 seconds 
+	•	Do you know where you are in the building? Same left wing and trying to remember where I started saving green blocks
+	•	Yes/No
+	•	Is there any confusion? (None, Some, A lot)? None, but maybe a little
+	•	What is your goal right now? Round up green boxes
+	•	Where are you planning to go next, and how do you get there?  Down this hallway and search at the end of the wing so I can go to a new place without leaving anyone
+	•	Do you have any confusion on how to get there? (Yes/No) no
+	•	In your estimation, what percentage of the mission space have you covered? (0-100) 30-40%
+	•	How many victims do you think are remaining? 5-7
+	•	How confident are you in that assessment (0-10)? 4
+	•	What is your level of anxiety (0-10) in completing the mission objective? 5
+	•	What is your level of frustration (0-10) in completing the mission objective? 3
+
+Commander Report-Out 180 seconds 
+	•	Do you know where you are in the building? Right wing over to the far right through a passageway room
+	•	Yes/No
+	•	Is there any confusion? (None, Some, A lot)? None
+	•	What is your goal right now? Coming through the rest of the rooms I might have skipped over and decisively mark them by turning on the lights 
+	•	Where are you planning to go next, and how do you get there?  Any rooms with lights off and then search for new rooms
+	•	Do you have any confusion on how to get there? (Yes/No) No confusion on searching rooms but looking for new passages
+	•	In your estimation, what percentage of the mission space have you covered? (0-100) 90
+	•	How many victims do you think are remaining? 2-3
+	•	How confident are you in that assessment (0-10)? 6
+	•	What is your level of anxiety (0-10) in completing the mission objective? 6
+	•	What is your level of frustration (0-10) in completing the mission objective? 2
+
+
+
+
+
+
+Post-task review questions/guide for data collection
+You provided us really useful information today on understanding human performance in search and rescue task. Because of this, we were hoping to ask you a series of questions on your experience playing the mission today.  
+
+Participant: _23____  date: 827 (e.g, 4-11-2020), time:___10:30 AM____ (e.g, 12:15am-11am)
+	•	World file version: v2.06.01-Training CMU, NoPoints
+	•	Finished time: __0__seconds remaining, 
+	•	Saved all (y/n), no
+	•	Red blocks/deaths?  Missed one green
+	•	Score: __Missed one green__
+	•	Impression 
+	•	Difficulty:  	 [ Extremely easy, moderately easy, moderate, moderately difficult, Extremely difficult]
+	•	Level of Effort, 1-10   [1= Very little effort, 10 = Never stopped moving] 8
+	•	Controls: [ Straight-forward, Somewhat difficult, very difficult]
+
+Questions: 
+
+	•	1. Was there any type of strategy you used as you were playing the game? Tried to stay consistent and turned lights on and saved victims. IF done again, close doors to mark green victim is still there and left lights on if all clear
+	•	[Prioritization Strategy] (yellow-first) At first all green but then switched to yellow 
+	•	[Navigation Stratgy] (Wing-by-wing, rm-by-rm, save all as found; Stick to the plan, what made you change your plan, if anything) Wing by wing, left, right, then center
+	•	[Plan Dynamics] Change your plan? Saved yellow at some point. I was in left wing, and switched to yellow when moving to the next wing (right wing)
+	•	When?
+	•	[Deliberate vs vs Opportunistic] Followed a plan or saved victims as soon as you saw them?
+	•	2. How did you remember where every victim was in the mission space? Turn on lights when I cleared the room. I thought of things in terms of wings. Towards the end I thought left was clear and figured out right wing
+	•	[Marking Strategy] Used a strategy to remember victim locations?
+	•	Any things you used in the environment to remember where you had been?
+	•	3.  Do you remember any times where you went into a room more than was needed. Yea towards the end. Moved too fast and revisited wings
+	•	When did that happen?
+	•	[Efficiency, Use of Attention] How often did you do this? (Not at all, A few times, More than a few times, A lot) 
+	•	4. Do you have a vivid mental picture of the map of the building? Yes
+	•	If yes, please describe?
+	•	[Mental Mapping] Degree of accurate recollection? Very accurate
+	•	Any rooms you missed?
+	•	5. Did you feel any type of pressure as you were completing the mission? (time, confusion, Minecraft controls, frustration, notifications) Yea I was upset about missing all of the yellow people. I wasnt thinking it through enough when I started
+	•	If so, what type?
+	•	When?
+	•	How frequently? 
+	•	6. Were there any emotions that you experienced throughout the mission? Sad to lose all of the yellow people 
+	•	[Emotions] If so, what type?
+	•	When? When losing all of the yellow people 
+	•	How frequently? Not too frequently
+	•	7. Noticed my warning before yellow box victims expired? Yes
+	•	Thoughts on reminder? That I hadn’t focused on them enough
+	•	Useful? useful  for me reminded me of the game situation
+	•	Did you change your behavior as a result of my warning? Yes
+	•	Earlier, later, just right? Earlier maybe at the beginning of the game 
+	•	Evoke any feelings?
+
+	•	Glitches & Bugs:
+	•	Around 11:30 grabbed water from cauldron disallowed victims saving afterward
+	•	Suggestions for improvement:
+	•	Prolific--put the consent form before everything else would be faster.
+	•	Helpful would be to log where you’ve been in the building. 
+	•	Let you press left wheel to mark the blocks and let you see them through the walls. 
+	•	Virtual map. 
+	•	Waypoint marker or breadcrumbs or a heatmap. 
+
