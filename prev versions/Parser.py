@@ -1,0 +1,225 @@
+import json
+import os
+import sys
+import time
+import math
+import sched
+from datetime import datetime
+from operator import itemgetter, attrgetter
+
+##################################
+# End Imports
+##################################
+
+class retrace_node:
+    x = 0
+    z = 0
+    distance = 3
+    
+    def __init__(self, x_pos, z_pos):
+        self.x = x_pos
+        self.z = z_pos
+    
+    
+    def isNearby(self, x_pos, z_pos):
+        return self.distance >= math.sqrt((self.z - z_pos)**2)+((self.x - x_pos)**2)
+
+##################################
+# End Sub Classes
+##################################
+
+
+# 2152 is the divider
+class Parse:
+    dataset = None                      # Json Data of messages
+    map_data = []                       # CSV area data
+    current_time = None                 # Current run time
+    start_time = None                   # Start time of the run
+    x_off = 0                           # X offset of map
+    z_off = 0                           # Z offset of map
+    
+    def inbounds(self, msg):
+        zpos = int(math.floor(msg["ZPos"])) - self.z_off
+        xpos = int(math.floor(msg["XPos"])) - self.x_off
+        return self.in_bounds(xpos, zpos)
+    
+    def in_bounds(self, xpos, zpos):
+        return len(self.map_data) > zpos and 0 <= zpos and len(self.map_data[0]) > xpos and 0 <= xpos
+    
+    ####
+    # Victim Saving Methods
+    ####
+    saves = {}
+    vic_dict = {}
+    def victim_knowledge(self, msg):
+        factor = int(math.sqrt(len(msg["ground_truth"])))
+        offset = int(factor/2)
+        cur_z = int(math.floor(self.current_z))
+        cur_x = int(math.floor(self.current_x))
+        for z in range(factor):
+            for x in range(factor):
+                if self.in_bounds(cur_x + (x - offset) - self.x_off, cur_z + (z - offset) - self.z_off):
+                    hsh = hash(str(cur_z + (z - offset) - self.z_off) + " $$ " + str(cur_x + (x - offset) - self.x_off))
+                    if "prismarine" in msg["ground_truth"][z * factor + x]:
+                        self.vic_dict[hsh] = "green_victim"
+                  
+                    if "gold" in msg["ground_truth"][z * factor + x]:
+                        self.vic_dict[hsh] = "yellow_victim"
+                  
+                    if "bone" in msg["ground_truth"][z * factor + x] and hsh in self.vic_dict:
+                        time_del = self.current_time - self.start_time
+                        time_del = math.floor(time_del.seconds/60)
+                        if self.vic_dict[hsh] == "yellow_victim":
+                            if time_del not in self.saves:
+                                self.saves[time_del] = []
+                            self.vic_dict[hsh] = "bone"
+                            self.saves[time_del].append("yellow_victim")
+                            
+                        if self.vic_dict[hsh] == "green_victim":
+                            if time_del not in self.saves:
+                                self.saves[time_del] = []
+                            self.vic_dict[hsh] = "bone"
+                            self.saves[time_del].append("green_victim")
+
+                        
+                    
+        
+    
+    save_threshold = .85                #   Threshold to consider a save first strategy
+    def save_strategy(self):
+        green_saves = 0
+        yellow_saves = 0     
+        for i in range (0,  10):
+            if i in self.saves.keys():
+                green_saves += self.saves[i].count("green_victim")
+                yellow_saves += self.saves[i].count("yellow_victim")
+            
+        if (yellow_saves / (float)(green_saves + yellow_saves) > self.save_threshold):
+            return "Yellow first"
+        if (green_saves / (float)(green_saves + yellow_saves) > self.save_threshold):
+            return "Green first" #In case this happens should be noted
+        return "Save any"
+    
+    
+    ####
+    # Get Active Time Methods
+    ####
+    current_x = 0                       # Current location x
+    current_z = 0                       # Current location z
+    active_x = 0                        # Current active location x
+    active_z = 0                        # Current active location z
+    movement_range = 1                  # Distance player needs to move for  
+    movement_time = 1000                # Milliseconds to determine if user has been inactive
+    last_movement = None                # Timestamp of last movement
+    active_times = 0
+    inactive_times = 0
+    def get_active_time(self, msg):
+        self.current_x = msg["XPos"]
+        self.current_z = msg["ZPos"]
+        if self.active_x == 0 and self.active_z == 0:
+            self.active_x = msg["XPos"]
+            self.active_z = msg["ZPos"]
+            self.last_movement = self.current_time
+            return
+        
+        #Check if the user has been active in the last timeframe
+        distance = math.sqrt(((self.active_x - msg["XPos"])**2)+((self.active_z - msg["ZPos"])**2))
+        if distance > self.movement_range:
+            self.last_movement = self.current_time
+            self.active_x = msg["XPos"]
+            self.active_z = msg["ZPos"]
+            self.active_times += 1
+            return
+            
+        #Resets the user position after every movement time milliseconds occurs when no movement has been detected
+        delta_time = (self.current_time - self.last_movement)
+        if (delta_time.seconds * 1000 + (delta_time.microseconds/1000)) > self.movement_time:
+            self.inactive_times += 1
+            self.last_movement = self.current_time
+            self.active_x = msg["XPos"]
+            self.active_z = msg["ZPos"]
+
+    ####
+    # Retrace Data Methods
+    ####
+    nodes = []                          # Nodes used for checking exploration
+    current_node = None                 # Current exploration node
+    total_nodes = 0                     # Total nodes entered
+    def get_retrace_amount(self):
+        # Check if any node is currently being occupied
+        nearby = None
+        for node in self.nodes:
+            if node.isNearby(self.current_x, self.current_z):
+                nearby = node
+                break
+                
+        # Dont do anything when the player is in the current node
+        if nearby is not None and self.current_node.isNearby(nearby.x, nearby.z):
+            return 
+            
+        #If no nearby node is in use then this is a new node
+        if nearby is None:
+            nearby = retrace_node(self.current_x, self.current_z)
+            self.nodes.append(nearby)
+            self.current_node = nearby
+            
+        # Either revisiting a node or a new node is found
+        self.total_nodes += 1
+
+    current_room = None                 # Space current in
+    room_revisits = {}                  # Spaces visited
+    def get_room_retrace(self, msg):
+        if self.current_room is None:
+            self.current_room = self.map_data[int(math.floor(msg["ZPos"])) - self.z_off][int(math.floor(msg["XPos"])) - self.x_off]
+            self.room_revisits[self.current_room] = 1
+            return
+        
+        next_room = self.map_data[int(math.floor(msg["ZPos"])) - self.z_off][int(math.floor(msg["XPos"])) - self.x_off]
+        if next_room != self.current_room:
+            if next_room not in self.room_revisits:
+                self.room_revisits[next_room] = 0
+            self.current_room = next_room
+            self.room_revisits[self.current_room] += 1
+
+
+                    
+    def __init__(self, metadata_file, csv_file):
+        with open(metadata_file) as json_file:
+            self.dataset = json.load(json_file)
+
+                
+        with open(csv_file) as file:
+            line = file.readline().split(",")
+            self.x_off = int(line[0])
+            self.z_off = int(line[1])
+            line = file.readline()
+            while line:
+                if line == None:
+                    break
+                self.map_data.append(line.strip("\n").split(","))
+                line = file.readline()
+        self.start()
+
+    def start(self):
+        for i in range(0, len(self.dataset)):
+            message = self.dataset[i]["message"]["data"]
+            if not self.inbounds(message):
+                continue
+            if self.start_time == None:
+                self.start_time = datetime.strptime(message["timestamp"],"%Y-%m-%dT%H:%M:%S.%f")
+            self.current_time = datetime.strptime(message["timestamp"],"%Y-%m-%dT%H:%M:%S.%f")
+            self.get_active_time(message)
+            self.get_retrace_amount()
+            self.get_room_retrace(message)
+            self.victim_knowledge(message)
+        
+        print("Active Timeframes: " + str(self.active_times))
+        print("Inactive Timeframes: " + str(self.inactive_times))
+        print("Saves Dictionary: " + str(self.saves))
+        print("Save Strategy Type: " + self.save_strategy())
+        print("Unique Retrace Nodes: " + str(len(self.nodes)))
+        print("Total Retrace Nodes: " + str(self.total_nodes))
+        print("Room Revisit Counts: " + str(self.room_revisits))
+            
+if __name__ == "__main__":
+    parser = Parse(sys.argv[1], sys.argv[2])

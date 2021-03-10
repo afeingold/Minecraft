@@ -1,0 +1,6 @@
+ASIST Malmo Data Logger Summary of Participant in Sparky Map
+Active Timeframes (1.0 second intervals): 454
+Inactive Timeframes (1.0 second intervals): 307
+
+ Timeframes spent in redundant room visits: 527
+Mission started at: 2020-10-07 16:24:44.462489

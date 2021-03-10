@@ -1,0 +1,83 @@
+ASIST Malmo Data Logger Summary of Participant in Sparky Map
+Active Timeframes (1.0 second intervals): 576
+Inactive Timeframes (1.0 second intervals): 748
+Save Strategy Type: Save any
+Green Saves: 18
+Yellow Saves: 4
+Unique Retrace Nodes: 163
+Total Retrace Nodes: 3705
+Room Revisit Counts: {'e': 4, 'hf': 10, 'de2': 2, 're2': 1, 'dw': 2, 'rw': 1, 'de1': 3, 're1': 1, 'dm': 2, 'rm': 1, 'hcj': 16, 'hlj': 14, 'hrja': 2, 'dj': 4, 'rj': 2, 'd201': 8, 'r201': 6, 'o201_203': 4, 'r203': 3, 'hl': 10, 'd203': 2, 'd205': 4, 'r205': 2, 'd207': 4, 'r207': 2, 'hc': 19, 'd209': 6, 'r209': 6, 'o209_216a': 5, 'r216a': 3, 'd216c': 6, 'hr': 15, 'd216a': 3, 'hrjb': 3, 'd218': 8, 'r218': 10, 'd213_218': 10, 'r213': 9, 'o211_213': 8, 'r211': 7, 'd211': 6, 'd208a': 5, 'r208a': 4, 'd220': 4, 'r220': 5, 'd215_220': 3, 'r216c': 2, 'd208c': 3, 'd210': 4, 'r210': 2, 'd215': 2, 'r215': 1, 'o203_208a': 2, 'r208c': 1}
+Portion of rooms visited: 18/18
+Re-entered already-visited rooms 49 times.
+Mission started at: 2020-09-17 10:48:21.314571
+Victim Encounters: 
+Victim Encounter: Yellow victim at (x = -2148, z = 180) in room re2. Encounter began at 2020-09-17 10:48:26.332257. Encounter ended at 2020-09-17 10:48:42.980778. Action taken: Saved.
+Victim Encounter: Green victim at (x = -2148, z = 160) in room rw. Encounter began at 2020-09-17 10:48:57.232591. Encounter ended at 2020-09-17 10:49:06.882034. Action taken: Saved.
+Victim Encounter: Green victim at (x = -2145, z = 182) in room re1. Encounter began at 2020-09-17 10:49:30.761427. Encounter ended at 2020-09-17 10:49:39.195287. Action taken: Saved.
+Victim Encounter: Green victim at (x = -2142, z = 161) in room rm. Encounter began at 2020-09-17 10:49:47.232216. Encounter ended at 2020-09-17 10:50:01.482504. Action taken: Saved.
+Victim Encounter: Yellow victim at (x = -2135, z = 166) in room rj. Encounter began at 2020-09-17 10:50:19.535335. Encounter ended at 2020-09-17 10:50:39.806153. Action taken: Saved.
+Victim Encounter: Green victim at (x = -2130, z = 162) in room r201. Encounter began at 2020-09-17 10:50:48.437298. Encounter ended at 2020-09-17 10:50:57.468175. Action taken: Saved.
+Victim Encounter: Green victim at (x = -2133, z = 164) in room r201. Encounter began at 2020-09-17 10:50:47.030037. Encounter ended at 2020-09-17 10:51:11.312872. Action taken: Saved.
+Victim Encounter: Green victim at (x = -2124, z = 164) in room r203. Encounter began at 2020-09-17 10:53:18.587420. Encounter ended at 2020-09-17 10:53:31.231043. Action taken: Saved.
+Victim Encounter: Green victim at (x = -2116, z = 160) in room r207. Encounter began at ERROR. Encounter ended at 2020-09-17 10:54:37.894349. Action taken: Saved.
+Victim Encounter: Green victim at (x = -2109, z = 158) in room r207. Encounter began at 2020-09-17 10:54:05.374822. Encounter ended at 2020-09-17 10:54:53.551744. Action taken: Saved.
+Victim Encounter: Yellow victim at (x = -2134, z = 192) in room r216a. Encounter began at 2020-09-17 10:55:16.429496. Encounter ended at 2020-09-17 10:55:32.516445. Action taken: Saved.
+Victim Encounter: Yellow victim at (x = -2118, z = 168) in room r208c. Encounter began at 2020-09-17 10:56:15.862622. Encounter ended at 2020-09-17 10:56:38.748794. Action taken: Saved.
+Victim Encounter: Green victim at (x = -2115, z = 166) in room r210. Encounter began at 2020-09-17 10:59:25.679642. Encounter ended at 2020-09-17 10:59:34.306166. Action taken: Saved.
+Victim Encounter: Green victim at (x = -2110, z = 171) in room r210. Encounter began at 2020-09-17 10:59:24.476068. Encounter ended at 2020-09-17 10:59:44.559105. Action taken: Saved.
+Victim Encounter: Green victim at (x = -2115, z = 181) in room r215. Encounter began at 2020-09-17 10:59:56.209857. Encounter ended at 2020-09-17 11:00:06.647485. Action taken: Saved.
+Victim Encounter: Green victim at (x = -2119, z = 187) in room r218. Encounter began at 2020-09-17 10:55:53.391035. Encounter ended at 2020-09-17 11:00:30.932847. Action taken: Saved.
+Victim Encounter: Green victim at (x = -2118, z = 180) in room r213. Encounter began at 2020-09-17 10:56:01.817562. Encounter ended at 2020-09-17 11:00:41.561638. Action taken: Saved.
+Victim Encounter: Green victim at (x = -2125, z = 184) in room r211. Encounter began at 2020-09-17 10:56:05.427664. Encounter ended at 2020-09-17 11:03:42.173866. Action taken: Saved.
+Victim Encounter: Green victim at (x = -2113, z = 190) in room r220. Encounter began at 2020-09-17 10:58:35.704087. Encounter ended at 2020-09-17 11:04:01.049325. Action taken: Saved.
+Victim Encounter: Green victim at (x = -2110, z = 188) in room r220. Encounter began at 2020-09-17 10:58:40.122344. Encounter ended at 2020-09-17 11:04:10.495466. Action taken: Saved.
+Victim Encounter: Green victim at (x = -2124, z = 188) in room r216c. Encounter began at 2020-09-17 10:55:36.730626. Encounter ended at 2020-09-17 11:05:14.771617. Action taken: Saved.
+Victim Encounter: Green victim at (x = -2120, z = 185) in room r213. Encounter began at 2020-09-17 10:56:01.415052. Encounter ended at 2020-09-17 11:08:59.981299. Action taken: Saved.
+Victim Encounter: Green victim at (x = -2142, z = 165) in room rm. Encounter began at 2020-09-17 10:49:45.828814. Encounter ended at N/A. Action taken: Mission ended during encounter.
+Victim Encounter: Yellow victim at (x = -2125, z = 171) in room r208a. Encounter began at 2020-09-17 10:56:11.848445. Encounter ended at N/A. Action taken: Mission ended during encounter.
+Yellow victim at (-2148, 180) found in re2 at 2020-09-17 10:48:23.925944, Position: (-2151, 177) Yaw & Pitch: (-23.603933, 3.2439492)
+Yellow Victim at (-2148, 180) saved in re2 at 2020-09-17 10:48:42.980778, Position: (-2149, 180) Yaw & Pitch: (-94.48115, 49.170616)
+Green victim at (-2148, 160) found in rw while participant in rw at 2020-09-17 10:48:57.232591, Position: (-2147, 163) Yaw & Pitch: (-203.77779, 25.029688)
+Green Victim at (-2148, 160) saved in rw at 2020-09-17 10:49:06.882034, Position: (-2147, 160) Yaw & Pitch: (-243.59561, 35.554554)
+Green victim at (-2145, 182) found in re1 while participant in de1 at 2020-09-17 10:49:30.761427, Position: (-2145, 179) Yaw & Pitch: (-23.583618, 17.964058)
+Green Victim at (-2145, 182) saved in re1 at 2020-09-17 10:49:39.195287, Position: (-2145, 181) Yaw & Pitch: (-9.157867, 31.948137)
+Green victim at (-2142, 165) found in rm while participant in rm at 2020-09-17 10:49:45.828814, Position: (-2145, 168) Yaw & Pitch: (-171.52032, 17.375246)
+Green victim at (-2142, 161) found in rm while participant in rm at 2020-09-17 10:49:47.232216, Position: (-2145, 164) Yaw & Pitch: (-162.68817, 11.708017)
+Green Victim at (-2142, 161) saved in rm at 2020-09-17 10:50:01.482504, Position: (-2143, 161) Yaw & Pitch: (-94.607635, 36.36416)
+Yellow victim at (-2135, 166) found in rj at 2020-09-17 10:50:19.535335, Position: (-2134, 169) Yaw & Pitch: (-50.8891, 12.44403)
+Green victim at (-2133, 164) found in r201 while participant in rj at 2020-09-17 10:50:23.151962, Position: (-2135, 167) Yaw & Pitch: (-199.34113, 23.999296)
+Yellow Victim at (-2135, 166) saved in rj at 2020-09-17 10:50:39.806153, Position: (-2135, 167) Yaw & Pitch: (-184.10577, 39.528988)
+Green victim at (-2130, 162) found in r201 while participant in r201 at 2020-09-17 10:50:48.437298, Position: (-2133, 162) Yaw & Pitch: (-99.41213, 26.64891)
+Green Victim at (-2130, 162) saved in r201 at 2020-09-17 10:50:57.468175, Position: (-2131, 162) Yaw & Pitch: (-97.42492, 28.783325)
+Green Victim at (-2133, 164) saved in r201 at 2020-09-17 10:51:11.312872, Position: (-2133, 163) Yaw & Pitch: (-18.504944, 52.556267)
+Green victim at (-2124, 164) found in r203 while participant in r203 at 2020-09-17 10:53:18.587420, Position: (-2127, 162) Yaw & Pitch: (-77.385254, 25.69211)
+Green Victim at (-2124, 164) saved in r203 at 2020-09-17 10:53:31.231043, Position: (-2124, 163) Yaw & Pitch: (-31.164154, 36.216972)
+Green victim at (-2116, 160) found in r207 while participant in r205 at 2020-09-17 10:53:55.139487, Position: (-2119, 161) Yaw & Pitch: (-57.018326, 4.2743726)
+Green victim at (-2109, 158) found in r207 while participant in hl at 2020-09-17 10:54:04.573784, Position: (-2112, 156) Yaw & Pitch: (330.85587, 6.114381)
+Green Victim at (-2116, 160) saved in r207 at 2020-09-17 10:54:37.894349, Position: (-2115, 160) Yaw & Pitch: (109.519165, 62.713104)
+Green Victim at (-2109, 158) saved in r207 at 2020-09-17 10:54:53.551744, Position: (-2110, 158) Yaw & Pitch: (175.33827, 30.034521)
+Yellow victim at (-2134, 192) found in r216a at 2020-09-17 10:55:16.429496, Position: (-2134, 189) Yaw & Pitch: (7.750103, 27.752914)
+Yellow Victim at (-2134, 192) saved in r216a at 2020-09-17 10:55:32.516445, Position: (-2134, 191) Yaw & Pitch: (5.3212805, 29.960934)
+Green victim at (-2124, 188) found in r216c while participant in r216a at 2020-09-17 10:55:36.730626, Position: (-2127, 190) Yaw & Pitch: (-42.003757, 10.972033)
+Green victim at (-2119, 187) found in r218 while participant in r218 at 2020-09-17 10:55:53.391035, Position: (-2118, 190) Yaw & Pitch: (179.90154, 39.528996)
+Green victim at (-2120, 185) found in r213 while participant in r218 at 2020-09-17 10:55:53.992120, Position: (-2118, 188) Yaw & Pitch: (178.42952, 35.112965)
+Green victim at (-2115, 181) found in r215 while participant in r213 at 2020-09-17 10:56:01.615584, Position: (-2118, 184) Yaw & Pitch: (181.00554, 17.080853)
+Green victim at (-2118, 180) found in r213 while participant in r213 at 2020-09-17 10:56:01.817562, Position: (-2118, 183) Yaw & Pitch: (136.69809, 15.976846)
+Green victim at (-2125, 184) found in r211 while participant in r213 at 2020-09-17 10:56:03.622456, Position: (-2122, 183) Yaw & Pitch: (91.50743, 15.682444)
+Yellow victim at (-2125, 171) found in r208a at 2020-09-17 10:56:11.247846, Position: (-2128, 174) Yaw & Pitch: (192.26642, 8.543203)
+Yellow victim at (-2118, 168) found in r208c at 2020-09-17 10:56:15.862622, Position: (-2120, 169) Yaw & Pitch: (244.22833, 45.564213)
+Yellow Victim at (-2118, 168) saved in r208a at 2020-09-17 10:56:38.748794, Position: (-2119, 169) Yaw & Pitch: (220.38173, 42.98818)
+Green victim at (-2113, 190) found in r220 while participant in r220 at 2020-09-17 10:58:35.704087, Position: (-2113, 193) Yaw & Pitch: (212.13857, 16.639225)
+Green victim at (-2110, 188) found in r220 while participant in r220 at 2020-09-17 10:58:40.122344, Position: (-2113, 187) Yaw & Pitch: (186.9672, 10.456795)
+Green victim at (-2110, 171) found in r210 while participant in hc at 2020-09-17 10:59:21.866777, Position: (-2113, 174) Yaw & Pitch: (214.12558, 10.5303955)
+Green victim at (-2115, 166) found in r210 while participant in r210 at 2020-09-17 10:59:25.679642, Position: (-2113, 169) Yaw & Pitch: (141.48195, 22.600866)
+Green Victim at (-2115, 166) saved in r210 at 2020-09-17 10:59:34.306166, Position: (-2114, 166) Yaw & Pitch: (128.30751, 32.978523)
+Green Victim at (-2110, 171) saved in r210 at 2020-09-17 10:59:44.559105, Position: (-2111, 170) Yaw & Pitch: (298.91333, 23.70487)
+Green Victim at (-2115, 181) saved in r215 at 2020-09-17 11:00:06.647485, Position: (-2114, 181) Yaw & Pitch: (103.77814, 51.157803)
+Green Victim at (-2119, 187) saved in r218 at 2020-09-17 11:00:30.932847, Position: (-2118, 187) Yaw & Pitch: (90.53003, 40.853733)
+Green Victim at (-2118, 180) saved in r213 at 2020-09-17 11:00:41.561638, Position: (-2118, 181) Yaw & Pitch: (185.62183, 33.125687)
+Green Victim at (-2125, 184) saved in r211 at 2020-09-17 11:03:42.173866, Position: (-2126, 184) Yaw & Pitch: (-81.30646, 47.60614)
+Green Victim at (-2113, 190) saved in r220 at 2020-09-17 11:04:01.049325, Position: (-2114, 190) Yaw & Pitch: (-114.13222, 26.85083)
+Green Victim at (-2110, 188) saved in r220 at 2020-09-17 11:04:10.495466, Position: (-2111, 188) Yaw & Pitch: (-80.055214, 31.929262)
+Green Victim at (-2124, 188) saved in r216a at 2020-09-17 11:05:14.771617, Position: (-2125, 188) Yaw & Pitch: (273.37415, 32.22365)
+Green Victim at (-2120, 185) saved in r213 at 2020-09-17 11:08:59.981299, Position: (-2119, 185) Yaw & Pitch: (72.497986, 45.6189)
